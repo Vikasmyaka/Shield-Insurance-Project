@@ -1,4 +1,4 @@
-# Shield-Insurance-Project
+
 # 🛡️ Shield Insurance Analytics Dashboard
 
 ## 📊 Project Overview
@@ -7,93 +7,96 @@ An interactive Power BI dashboard developed to analyze insurance business perfor
 
 ---
 
-## 🚀 Key Features
+# 🚀 Key Features
 
-✅ General Business Analysis
-✅ City-wise Revenue Insights
-✅ Sales Channel Performance
-✅ Age Group Segmentation
-✅ Monthly Trend & Seasonality Analysis
-✅ Interactive KPI Cards & Visualizations
-
----
-
-## 🛠️ Tools & Technologies
-
-🔹 Power BI
-🔹 Power Query
-🔹 DAX
-🔹 Excel / CSV
-🔹 GitHub
+- ✅ General Business Analysis
+- ✅ City-wise Revenue Insights
+- ✅ Sales Channel Performance
+- ✅ Age Group Segmentation
+- ✅ Monthly Trend & Seasonality Analysis
+- ✅ Interactive KPI Cards & Visualizations
 
 ---
 
-## 📈 Key KPIs
+# 🛠️ Tools & Technologies
 
-👥 Total Customers: **27K**
-💰 Total Revenue: **₹989M**
-📅 Daily Avg Customers: **148.3**
-📊 Daily Avg Revenue: **₹5.47M**
-📈 Monthly Growth: **+18%**
-
----
-
-## 🌆 City-wise Insights
-
-🏆 Delhi NCR → Highest Revenue Generator
-💼 Mumbai → Strong Revenue per Customer
-📍 Hyderabad → Balanced Growth
-🚀 Indore → High Future Potential
+| Tool | Purpose |
+|---|---|
+| 📊 Power BI | Dashboard Development |
+| ⚡ Power Query | Data Cleaning & Transformation |
+| 📈 DAX | KPI Calculations |
+| 📄 Excel / CSV | Data Source |
+| 💻 GitHub | Project Hosting |
 
 ---
 
-## 💡 Sales Channel Insights
+# 📈 Key KPIs
 
-📞 Offline-Agent channel contributes 55%+ revenue
-📱 Online-App channel needs optimization
-🌐 Digital channels show future growth opportunities
-
----
-
-## 👨‍👩‍👧‍👦 Customer Age Group Insights
-
-🎯 Age 31–40 → Largest customer segment
-💎 Age 65+ → High premium value customers
-📉 Age 18–24 → Lower revenue contribution
+- 👥 **Total Customers:** 27K
+- 💰 **Total Revenue:** ₹989M
+- 📅 **Daily Avg Customers:** 148.3
+- 📊 **Daily Avg Revenue:** ₹5.47M
+- 🚀 **Monthly Growth:** +18%
 
 ---
 
-## 📅 Monthly Trends
+# 🌆 City-wise Insights
 
-📌 Stable growth from Nov–Feb
-🔥 Major spike in March 2023
-📉 April showed post-peak correction
-
----
-
-## 📚 Learning Outcomes
-
-✨ Interactive Dashboard Development
-✨ Data Cleaning & Transformation
-✨ KPI Creation using DAX
-✨ Business Storytelling with Data
-✨ Advanced Visualization Techniques
+- 🏆 Delhi NCR → Highest Revenue Generator
+- 💼 Mumbai → Strong Revenue per Customer
+- 📍 Hyderabad → Balanced Growth
+- 🚀 Indore → High Future Potential
 
 ---
 
-## 🔮 Future Improvements
+# 💡 Sales Channel Insights
 
-🤖 Predictive Analytics
-📡 Real-time Data Integration
-📱 Mobile-friendly Dashboard
-🧠 Customer Churn Analysis
+- 📞 Offline-Agent contributes 55%+ revenue
+- 📱 Online-App channel needs optimization
+- 🌐 Digital channels have future growth potential
 
 ---
 
-## 👨‍💻 Author
+# 👨‍👩‍👧‍👦 Customer Age Group Insights
 
-**MYAKA VIKAS**
-📊 Aspiring Data Analyst | Power BI Developer
+- 🎯 Age 31–40 → Largest customer segment
+- 💎 Age 65+ → High premium customers
+- 📉 Age 18–24 → Lower revenue contribution
+
+---
+
+# 📅 Monthly Trends
+
+- 📌 Stable growth from Nov–Feb
+- 🔥 Major spike in March 2023
+- 📉 April showed post-peak correction
+
+---
+
+# 📚 Learning Outcomes
+
+- ✨ Interactive Dashboard Development
+- ✨ Data Cleaning & Transformation
+- ✨ KPI Creation using DAX
+- ✨ Business Storytelling
+- ✨ Advanced Data Visualization
+
+---
+
+# 🔮 Future Improvements
+
+- 🤖 Predictive Analytics
+- 📡 Real-time Data Integration
+- 📱 Mobile-friendly Dashboard
+- 🧠 Customer Churn Analysis
+
+---
+
+# 👨‍💻 Author
+
+## MYAKA VIKAS
+
+📊 Aspiring Data Analyst  
 💻 SQL | Excel | Power BI
 
 ## Connect with me
