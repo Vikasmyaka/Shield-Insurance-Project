@@ -83,14 +83,8 @@ An interactive Power BI dashboard developed to analyze insurance business perfor
 
 ---
 
-# 🔮 Future Improvements
-
-- 🤖 Predictive Analytics
-- 📡 Real-time Data Integration
-- 📱 Mobile-friendly Dashboard
-- 🧠 Customer Churn Analysis
-
----
+# 👉Live Dashboard :
+https://app.powerbi.com/view?r=eyJrIjoiOTg2YWM3NjYtNTNjMi00YjdhLWIyYmUtZTE3N2QxMGZhMTQ4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 # 👨‍💻 Author
 
